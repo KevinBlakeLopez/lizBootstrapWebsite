@@ -1,0 +1,29 @@
+* {
+  font-family: Lora;
+}
+
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+
+#jumbotron, #jumbotron2 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#jumbotron {
+  background-image: url("../pictures/foggyMoon2.jpg");
+}
+
+#jumbotron2 {
+  background-image: url("../pictures/altar4.jpg")
+}
+
+#readingHome, #aboutHome {
+  width: 15em;
+}
